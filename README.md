@@ -1,2 +1,0 @@
-# HotCharts
-Created with CodeSandbox
